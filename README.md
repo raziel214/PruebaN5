@@ -3,7 +3,7 @@
 
  # ApiProducerN5
 
-Descripción breve del proyecto, por ejemplo: "API para la gestión de empleados, que permite registrar, actualizar, y consultar información de empleados. Integrado con Kafka para procesamiento de eventos, Elasticsearch para búsquedas optimizadas y SQL Server para almacenamiento de datos."
+Descripción breve del proyecto, por ejemplo: "API para la gestión de permisos de losempleados, que permite registrar, actualizar, y consultar información de los diferentes modelos de datos. Integrado con Kafka para procesamiento de eventos, Elasticsearch para búsquedas optimizadas y SQL Server para almacenamiento de datos."
 
 ## Tabla de Contenidos
 
